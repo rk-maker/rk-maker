@@ -34,6 +34,9 @@ Developed scalable dashboards and secure biometric login for Pakistan’s larges
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rk-maker&show_icons=true&locale=en" alt="rk-maker" /></p>
 
+## LeetCode <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="25" style="vertical-align: middle;" />
+![LeetCode Stats](https://leetcard.jacoblin.cool/rkraffay?ext=contest)
+
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/muhammad-raffay-58b3ba177/)
